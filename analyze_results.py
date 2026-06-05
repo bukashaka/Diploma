@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Анализ и визуализация результатов BehaviorSpace для модели MANET.
 
